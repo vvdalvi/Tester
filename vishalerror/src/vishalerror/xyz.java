@@ -11,6 +11,11 @@ public class xyz
 	{
 		System.out.println("M2 method calling");
 	}
+	
+	public void m3()
+	{
+		System.out.println("M3 method calling");
+	}
 
 	public static void main(String[] args) 
 	{
